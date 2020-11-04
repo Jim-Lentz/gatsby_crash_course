@@ -5,4 +5,4 @@ title: "My third post"
 author: "Jim Lentz"
 ---
 
-**This is my third blog post.**
+This is my third blog post.
